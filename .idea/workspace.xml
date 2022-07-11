@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb09e86f-3c8a-4127-905f-73a2ffabb711" name="Changes" comment="Added program of anagrams">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/DecimalToBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Anagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DecimalToBinary">
+  <component name="RunManager" selected="Application.Anagrams">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Anagrams" />
       <module name="Workshop1" />
@@ -77,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.Anagrams" />
+        <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
